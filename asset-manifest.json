@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react-page/static/css/main.f65e433f.chunk.css",
-    "main.js": "/react-page/static/js/main.486242e0.chunk.js",
-    "main.js.map": "/react-page/static/js/main.486242e0.chunk.js.map",
+    "main.css": "/react-page/static/css/main.b1295669.chunk.css",
+    "main.js": "/react-page/static/js/main.157e2767.chunk.js",
+    "main.js.map": "/react-page/static/js/main.157e2767.chunk.js.map",
     "runtime-main.js": "/react-page/static/js/runtime-main.233a4a52.js",
     "runtime-main.js.map": "/react-page/static/js/runtime-main.233a4a52.js.map",
     "static/js/2.e071bb75.chunk.js": "/react-page/static/js/2.e071bb75.chunk.js",
@@ -10,9 +10,9 @@
     "static/js/3.2571960b.chunk.js": "/react-page/static/js/3.2571960b.chunk.js",
     "static/js/3.2571960b.chunk.js.map": "/react-page/static/js/3.2571960b.chunk.js.map",
     "index.html": "/react-page/index.html",
-    "static/css/main.f65e433f.chunk.css.map": "/react-page/static/css/main.f65e433f.chunk.css.map",
+    "static/css/main.b1295669.chunk.css.map": "/react-page/static/css/main.b1295669.chunk.css.map",
     "static/js/2.e071bb75.chunk.js.LICENSE.txt": "/react-page/static/js/2.e071bb75.chunk.js.LICENSE.txt",
-    "static/media/frontbw.76734388.svg": "/react-page/static/media/frontbw.76734388.svg",
+    "static/media/frontbw.ef55f47c.svg": "/react-page/static/media/frontbw.ef55f47c.svg",
     "static/media/frontcolor.76734388.svg": "/react-page/static/media/frontcolor.76734388.svg",
     "static/media/iabw.fe728c4d.svg": "/react-page/static/media/iabw.fe728c4d.svg",
     "static/media/iacolor.2e0f93a6.svg": "/react-page/static/media/iacolor.2e0f93a6.svg"
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.233a4a52.js",
     "static/js/2.e071bb75.chunk.js",
-    "static/css/main.f65e433f.chunk.css",
-    "static/js/main.486242e0.chunk.js"
+    "static/css/main.b1295669.chunk.css",
+    "static/js/main.157e2767.chunk.js"
   ]
 }
