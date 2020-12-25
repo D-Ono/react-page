@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react-page/static/css/main.34cc255e.chunk.css",
-    "main.js": "/react-page/static/js/main.4a8b1271.chunk.js",
-    "main.js.map": "/react-page/static/js/main.4a8b1271.chunk.js.map",
+    "main.css": "/react-page/static/css/main.e14b4c38.chunk.css",
+    "main.js": "/react-page/static/js/main.2352ccc5.chunk.js",
+    "main.js.map": "/react-page/static/js/main.2352ccc5.chunk.js.map",
     "runtime-main.js": "/react-page/static/js/runtime-main.2dfa1e33.js",
     "runtime-main.js.map": "/react-page/static/js/runtime-main.2dfa1e33.js.map",
     "static/js/2.e071bb75.chunk.js": "/react-page/static/js/2.e071bb75.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.487f359c.chunk.js": "/react-page/static/js/3.487f359c.chunk.js",
     "static/js/3.487f359c.chunk.js.map": "/react-page/static/js/3.487f359c.chunk.js.map",
     "index.html": "/react-page/index.html",
-    "static/css/main.34cc255e.chunk.css.map": "/react-page/static/css/main.34cc255e.chunk.css.map",
+    "static/css/main.e14b4c38.chunk.css.map": "/react-page/static/css/main.e14b4c38.chunk.css.map",
     "static/js/2.e071bb75.chunk.js.LICENSE.txt": "/react-page/static/js/2.e071bb75.chunk.js.LICENSE.txt",
     "static/media/FaceBW.650b070a.svg": "/react-page/static/media/FaceBW.650b070a.svg",
     "static/media/FaceColor.97e98ac5.svg": "/react-page/static/media/FaceColor.97e98ac5.svg",
@@ -20,6 +20,7 @@
     "static/media/frontcolor.76734388.svg": "/react-page/static/media/frontcolor.76734388.svg",
     "static/media/githubBW.3ba4a27c.svg": "/react-page/static/media/githubBW.3ba4a27c.svg",
     "static/media/githubColor.d1bb13ce.svg": "/react-page/static/media/githubColor.d1bb13ce.svg",
+    "static/media/html-5.feba840f.svg": "/react-page/static/media/html-5.feba840f.svg",
     "static/media/iabw.fe728c4d.svg": "/react-page/static/media/iabw.fe728c4d.svg",
     "static/media/iacolor.2e0f93a6.svg": "/react-page/static/media/iacolor.2e0f93a6.svg",
     "static/media/linkedinBw.d9666dd4.svg": "/react-page/static/media/linkedinBw.d9666dd4.svg",
@@ -29,7 +30,7 @@
   "entrypoints": [
     "static/js/runtime-main.2dfa1e33.js",
     "static/js/2.e071bb75.chunk.js",
-    "static/css/main.34cc255e.chunk.css",
-    "static/js/main.4a8b1271.chunk.js"
+    "static/css/main.e14b4c38.chunk.css",
+    "static/js/main.2352ccc5.chunk.js"
   ]
 }
